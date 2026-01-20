@@ -5,17 +5,13 @@ A homepage of a travel website, featuring a profile picture, traveler's name and
 
 
 ## Table of contents
-
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
-
-
 ## Screenshots
 
 ![Final Project](final-project-screenshot.png)
@@ -32,6 +28,11 @@ A homepage of a travel website, featuring a profile picture, traveler's name and
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## What I learned
+
+How to use better the flexbox, so i can made a gallery of images!
+
 ## Authors
 
 - [@FYLIPI-2004](https://github.com/FYLIPI-2004)
