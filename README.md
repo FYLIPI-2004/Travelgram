@@ -6,7 +6,7 @@ A homepage of a travel website, featuring a profile picture, traveler's name and
 
 ## Table of contents
 - [Overview](#overview)
-  - [Screenshots](#screenshots)
+  - [Screenshot](#screenshot)
   - [Links](#-links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -15,7 +15,7 @@ A homepage of a travel website, featuring a profile picture, traveler's name and
 
 ## Overview
 
-### Screenshots
+### Screenshot
 
 ![Final Project](final-project-screenshot.png)
 
