@@ -15,7 +15,7 @@ A homepage of a travel website, featuring a profile picture, traveler's name and
 
 ## Overview
 
-## Screenshots
+### Screenshots
 
 ![Final Project](final-project-screenshot.png)
 
